@@ -3,6 +3,8 @@
 브라우저에서 즐기는 레트로 픽셀아트 3D 복셀 제트기 공중전 게임입니다.  
 `https://storm.game`의 렌더링 파이프라인, 비행 물리, 전투 시스템을 분석해 순수 **TypeScript + Vite + WebGL2 + Canvas 2D + Web Audio API**로 재구현했습니다.
 
+- **Live Play (GitHub Pages)**: https://gyuha.github.io/flight/
+
 ![Main Menu](docs/screenshots/menu.png)
 
 ## Screenshots
